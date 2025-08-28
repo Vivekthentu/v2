@@ -1,3 +1,8 @@
+AWS DevOps combines Amazon Web Services (AWS) cloud platform with DevOps principles and practices to accelerate software development and deployment. 
+
+
+
+
 @rem
 @rem Copyright 2015 the original author or authors.
 @rem
@@ -92,3 +97,4 @@ exit /b %EXIT_CODE%
 if "%OS%"=="Windows_NT" endlocal
 
 :omega
+
